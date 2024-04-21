@@ -1,0 +1,5 @@
+Zika	Rad1:Zika,Srbljan,Milicev,Zaki;Rad4:Srbljan,Zika
+Srbljan	Rad1:Zika,Srbljan,Milicev,Zaki;Rad4:Srbljan,Zika;Rad2:Srbljan,Milicev,Zaki,Cmiki
+Cmiki	Rad2:Srbljan,Milicev,Zaki,Cmiki;Rad3:Zaki,Cmiki;Rad5:Zaki,Cmiki
+Zaki	Rad1:Zika,Srbljan,Milicev,Zaki;Rad2:Srbljan,Milicev,Zaki,Cmiki;Rad3:Zaki,Cmiki;Rad5:Zaki,Cmiki
+Milicev	Rad1:Zika,Srbljan,Milicev,Zaki;Rad2:Srbljan,Milicev,Zaki,Cmiki

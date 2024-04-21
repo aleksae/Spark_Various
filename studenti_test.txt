@@ -1,0 +1,4 @@
+pera	predmet2,jun2020,10;predmet3,jun2020,9;predmet1,jul2020,10;predmet3,jul2020,10
+mika	predmet1,jun2020,6;predmet2,jun2020,6;predmet3,jun2020,7;predmet1,jul2020,6
+zika	predmet1,jun2020,8
+jovan	
